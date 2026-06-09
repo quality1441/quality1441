@@ -2,9 +2,7 @@
 
 # Hi, I'm Quality (Mike)
 
-Part-time content creator and tool builder. I make things that extend how I play and stream, and that help other creators grow through **engagement** (interactions) and **efficiency** (overlays, versioned art, less time in the edit bay).
-
-Most of my tools run **local-first** or in the browser. No cloud account required for the STS2 overlay stack.
+I am a part-time content creator and beginner tool builder. I generally make things that extend how I play and stream, and that help other creators grow through **engagement** (interactions) and **efficiency** (overlays, versioned art, less time on editing).
 
 **Find me:** [Twitch](https://www.twitch.tv/qaulitytv) · [YouTube](https://www.youtube.com/channel/UCt54IF_LhyLHAQbf1pB2BSA) · [Discord](https://discord.gg/pXepknc2hr) · [Ko-fi](https://ko-fi.com/qaulitytv)
 
@@ -46,7 +44,8 @@ Most of my tools run **local-first** or in the browser. No cloud account require
 | Project | What it does | Link |
 |---------|----------------|------|
 | **Stream the Spire** | Live card, relic, and potion toasts in OBS. Local server + game mod. | [sts2-stream-overlay](https://github.com/quality1441/sts2-stream-overlay) (download from [Releases](https://github.com/quality1441/sts2-stream-overlay/releases)) |
-| **sts2-image-versions** | Versioned STS2 art per stable patch. Feeds the overlay and saves editing time. | [sts2-image-versions](https://github.com/quality1441/sts2-image-versions) (download from [Releases] (https://github.com/quality1441/sts2-image-versions/releases))|
+| **sts2-image-versions** | Versioned STS2 art per stable patch. Feeds the Stream the Spire and saves me editing time. | [sts2-image-versions](https://github.com/quality1441/sts2-image-versions) (download from [Releases](https://github.com/quality1441/sts2-image-versions/releases))|
+| **sts2-infinite-floors-mod** | Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run. | [sts2-infinite-floors-mod](https://github.com/quality1441/sts2-infinite-floors-mod) (download from [Releases](https://github.com/quality1441/sts2-infinite-floors-mod/releases))|
 
 **Stream the Spire** setup walkthrough: [YouTube](https://youtu.be/AYFSaeBVvkM)
 
@@ -59,6 +58,8 @@ I build Slay the Spire 2 videos when time allows. Showing each card, relic, and 
 - **sts2-image-versions:** New folders as stable game releases ship (no beta captures).
 - **Stream the Spire:** Multiple saved layouts for different stream setups.
 - **Challenge Wheel & Spindle:** Twitch and YouTube integration so viewers can spin when the streamer allows it.
+- **sts2-infinite-floors-mod:** More tuning and example videos.
+- **sts2-custom-game-mode:** In the concept phase now and planning what a modding will allow for a new custom game mode.
 
 ---
 
