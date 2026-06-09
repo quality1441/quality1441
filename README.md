@@ -43,9 +43,9 @@ I am a part-time content creator and beginner tool builder. I generally make thi
 
 | Project | What it does | Link |
 |---------|----------------|------|
-| **Stream the Spire** | Live card, relic, and potion toasts in OBS. Local server + game mod. | [sts2-stream-overlay](https://github.com/quality1441/sts2-stream-overlay) (download from [Releases](https://github.com/quality1441/sts2-stream-overlay/releases)) |
-| **sts2-image-versions** | Versioned STS2 art per stable patch. Feeds the Stream the Spire and saves me editing time. | [sts2-image-versions](https://github.com/quality1441/sts2-image-versions) (download from [Releases](https://github.com/quality1441/sts2-image-versions/releases))|
-| **sts2-infinite-floors-mod** | Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run. | [sts2-infinite-floors-mod](https://github.com/quality1441/sts2-infinite-floors-mod) (download from [Releases](https://github.com/quality1441/sts2-infinite-floors-mod/releases))|
+| **Stream the Spire** | Live card, relic, and potion toasts in OBS. Local server + game mod. | [REPO](https://github.com/quality1441/sts2-stream-overlay) [Download](https://github.com/quality1441/sts2-stream-overlay/releases) |
+| **sts2-image-versions** | Versioned STS2 art per stable patch. Feeds the Stream the Spire and saves me editing time. | [REPO](https://github.com/quality1441/sts2-image-versions) [Download](https://github.com/quality1441/sts2-image-versions/releases)|
+| **sts2-infinite-floors-mod** | Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run. | [REPO](https://github.com/quality1441/sts2-infinite-floors-mod) [Download](https://github.com/quality1441/sts2-infinite-floors-mod/releases)|
 
 **Stream the Spire** setup walkthrough: [YouTube](https://youtu.be/AYFSaeBVvkM)
 
