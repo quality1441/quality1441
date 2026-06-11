@@ -69,8 +69,9 @@ Start here for code and downloads:
 
 1. [sts2-stream-overlay](https://github.com/quality1441/sts2-stream-overlay)
 2. [sts2-image-versions](https://github.com/quality1441/sts2-image-versions)
+3. [sts2-infinite-floors-mod](https://github.com/quality1441/sts2-infinite-floors-mod)
 
-Wheel and Spindle source stay private; use the **live apps** links above.
+Wheel and Spindle repos are private but available for public use using the **live apps** links above.
 
 ---
 
