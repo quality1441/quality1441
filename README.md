@@ -45,7 +45,10 @@ I am a part-time content creator and beginner tool builder. I generally make thi
 |---------|----------------|------|
 | **Stream the Spire** | Live card, relic, and potion toasts in OBS. Local server + game mod. | [REPO](https://github.com/quality1441/sts2-stream-overlay) [Download](https://github.com/quality1441/sts2-stream-overlay/releases) |
 | **sts2-image-versions** | Versioned STS2 art per stable patch. Feeds the Stream the Spire and saves me editing time. | [REPO](https://github.com/quality1441/sts2-image-versions) [Download](https://github.com/quality1441/sts2-image-versions/releases)|
-| **sts2-infinite-floors-mod** | Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run. | [REPO](https://github.com/quality1441/sts2-infinite-floors-mod) [Download](https://github.com/quality1441/sts2-infinite-floors-mod/releases)|
+| **Infinite Floors** | Clear Acts 1–3 as usual, then keep climbing through new random biomes instead of facing the Architect and ending the run. | [REPO](https://github.com/quality1441/sts2-infinite-floors-mod) [Download](https://github.com/quality1441/sts2-infinite-floors-mod/releases)|
+| **Mutations** | Inspired by my experiences playing the Gamma World RPG, this mod adds **mutations** to your play-through. Some good and some bad. | [REPO](https://github.com/quality1441/sts2-mutations) [Download](https://github.com/quality1441/sts2-mutations/releases) |
+| **Hidden Map** | This is a mod that I am using in a future, larger project but I thought some people may enjoy it. It's simple, really. Only show your immediate map choices. The rest of the map is "hidden". | [REPO](https://github.com/quality1441/sts2-hidden-map) [Download](https://github.com/quality1441/sts2-hidden-map/releases) |
+| **Rolling Boulder to Potato** | The simplest of mods, inspired by a sts2 streamer's audience. Convert the Rolling Boulder into a random potato image. | [REPO](https://github.com/quality1441/sts2-rolling-boulder-to-potato) [Download](https://github.com/quality1441/sts2-rolling-boulder-to-potato/releases) |
 
 **Stream the Spire** setup walkthrough: [YouTube](https://youtu.be/AYFSaeBVvkM)
 
@@ -58,8 +61,10 @@ I build Slay the Spire 2 videos when time allows. Showing each card, relic, and 
 - **sts2-image-versions:** New folders as stable game releases ship (no beta captures).
 - **Stream the Spire:** Multiple saved layouts for different stream setups.
 - **Challenge Wheel & Spindle:** Twitch and YouTube integration so viewers can spin when the streamer allows it.
-- **sts2-infinite-floors-mod:** More tuning and example videos.
-- **sts2-custom-game-mode:** In the concept phase now and planning what a modding will allow for a new custom game mode.
+- **Infinite Floors:** More tuning and example videos.
+- **Mutations:** Testing, art, and expansion.
+- **STS2 - New Game Mode:** I am building pieces of this now and publishing some of the pieces as standalone in the hopes that people will enjoy them. Look for the full release later this year.
+
 
 ---
 
