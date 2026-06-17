@@ -65,21 +65,9 @@ I build Slay the Spire 2 videos when time allows. Showing each card, relic, and 
 - **Mutations:** Testing, art, and expansion.
 - **STS2 - New Game Mode:** I am building pieces of this now and publishing some of the pieces as standalone in the hopes that people will enjoy them. Look for the full release later this year.
 
-
----
-
-## Pinned on this profile
-
-Start here for code and downloads:
-
-1. [sts2-stream-overlay](https://github.com/quality1441/sts2-stream-overlay)
-2. [sts2-image-versions](https://github.com/quality1441/sts2-image-versions)
-3. [sts2-infinite-floors-mod](https://github.com/quality1441/sts2-infinite-floors-mod)
-
-Wheel and Spindle repos are private but available for public use using the **live apps** links above.
-
 ---
 
 ## Disclaimer
 
 _Slay the Spire 2_ and related assets are property of Mega Crit Games. These projects are unofficial fan/community tools, not affiliated with or endorsed by Mega Crit.
+_Gamma World_ is owned by Wizards of the Coast and the Mutations mod is not affiliated with them in any way. 
