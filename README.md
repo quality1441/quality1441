@@ -1,4 +1,7 @@
-<img width="1376" height="768" alt="Stream-The-Spire-Wallpaper" src="https://github.com/user-attachments/assets/da7c5b7e-9e20-4181-ab61-6f0eb3fb8d57" />
+
+| Stream the Spire | Mutations | 
+|---------|----------------|
+| <img alt="Stream-The-Spire-Wallpaper" src="https://github.com/user-attachments/assets/5843ff62-1620-4e1e-b380-cc4729d378b4" /> | <img alt="thumbnail-combined" src="https://github.com/user-attachments/assets/6c110510-4f8c-43f2-af3f-00a5103f6a9f" /> |
 
 # Hi, I'm Quality (Mike)
 
