@@ -1,7 +1,6 @@
-
 | Stream the Spire | Mutations | 
 |---------|----------------|
-| <img alt="Stream-The-Spire-Wallpaper" src="https://github.com/user-attachments/assets/5843ff62-1620-4e1e-b380-cc4729d378b4" /> | <img alt="thumbnail-combined" src="https://github.com/user-attachments/assets/6c110510-4f8c-43f2-af3f-00a5103f6a9f" /> |
+| <img alt="preview of Stream the Spire" src="https://github.com/user-attachments/assets/ab9f1854-15d5-4ea3-bd70-0a4197735d0d" /> | <img alt="preview of Mutations" src="https://github.com/user-attachments/assets/e6d03f4c-8955-4e1b-a9b5-9e9ed8bac64c" /> |
 
 # Hi, I'm Quality (Mike)
 
