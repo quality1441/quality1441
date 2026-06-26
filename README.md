@@ -6,7 +6,7 @@
 
 I am a part-time content creator and beginner tool builder. I generally make things that extend how I play and stream, and that help other creators grow through **engagement** (interactions) and **efficiency** (overlays, versioned art, less time on editing).
 
-**Find me:** [Twitch](https://www.twitch.tv/qaulitytv) · [YouTube](https://www.youtube.com/channel/UCt54IF_LhyLHAQbf1pB2BSA) · [Discord](https://discord.gg/pXepknc2hr) · [Patreon](https://www.patreon.com/cw/Qaulity)
+**Find me:** [Twitch](https://www.twitch.tv/qaulitytv) · [YouTube](https://www.youtube.com/channel/UCt54IF_LhyLHAQbf1pB2BSA) · [Discord](https://qaulity.s.gy/github) · [Patreon](https://www.patreon.com/cw/Qaulity)
 
 ---
 
